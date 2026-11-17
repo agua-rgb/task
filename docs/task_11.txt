@@ -1,3 +1,3 @@
 Task 11 — Final Technician Challenge
 
-Use the synthetic employee reference document supplied at the beginning of the activity set to complete the final challenge. Enter the Employee ID, Email, Access Key, and Diagnostic ID from that synthetic document. Do not use or discover any real user, device, network, or session information.
+ Enter the Employee ID, Email, Access Key, and Diagnostic ID from that synthetic document. Do not use or discover any real user, device, network, or session information.
